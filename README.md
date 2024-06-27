@@ -1,13 +1,13 @@
-<div align=center>
-  
+Profile 👤
+-----------
+
   <a href="https://velog.io/@cdaeun95/posts">
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"><br/> 
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
   </a>
-  
   <a href="https://succinct-hamburger-40a.notion.site/64cfee5fe5904c6188bb3d4f47dbebd2?pvs=4">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
-</div>
+
 
 Hard Skill 🛠️
 -------------
